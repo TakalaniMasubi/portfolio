@@ -102,23 +102,19 @@
     const observerOptions = {
         root: null,
         rootMargin: '0px',
-        threshold: 0.1
+        threshold: 0.08
     };
 
     const observer = new IntersectionObserver((entries, obs) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
-                entry.target.style.opacity = 1;
-                entry.target.style.transform = 'translateY(0)';
+                entry.target.classList.add('visible');
                 obs.unobserve(entry.target);
             }
         });
     }, observerOptions);
 
     document.querySelectorAll('.animate-on-scroll').forEach((el) => {
-        el.style.opacity = 0;
-        el.style.transform = 'translateY(20px)';
-        el.style.transition = 'all 0.6s ease-out';
         observer.observe(el);
     });
 </script>
