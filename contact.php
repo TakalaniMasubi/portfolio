@@ -34,17 +34,16 @@ include 'includes/header.php';
                 <i class="fa-brands fa-github" style="font-size: 3rem; color: white; margin-bottom: 1rem; display: block;"></i>
                 <h3 class="heading-md">GitHub</h3>
                 <p class="mb-2" style="color: var(--secondary-text);">Browse my code, projects, and repositories.</p>
-                <a href="https://github.com/takalanimasubi" target="_blank" class="btn btn-outline" style="border-color: rgba(255,255,255,0.2);">
-                    github.com/takalanimasubi
+                <a href="https://github.com/TakalaniMasubi" target="_blank" class="btn btn-outline" style="border-color: rgba(255,255,255,0.2);">
+                    github.com/TakalaniMasubi
                 </a>
-                <p style="color: var(--secondary-text); font-size: 0.8rem; margin-top: 0.75rem;"><em>Update this link once your GitHub profile and repos are live.</em></p>
             </div>
         </div>
 
         <div class="text-center mt-4 pt-4 animate-on-scroll" style="max-width: 800px; margin: 2rem auto 0; border-top: 1px solid rgba(255,255,255,0.1);">
             <h3 class="heading-md mb-4">Find Me Here</h3>
             <div class="social-links" style="justify-content: center; font-size: 1.75rem; gap: 1.5rem;">
-                <a href="https://github.com/takalanimasubi" target="_blank" style="background: var(--bg-secondary); width: 60px; height: 60px;" title="GitHub">
+                <a href="https://github.com/TakalaniMasubi" target="_blank" style="background: var(--bg-secondary); width: 60px; height: 60px;" title="GitHub">
                     <i class="fa-brands fa-github" style="color: white;"></i>
                 </a>
                 <a href="https://wa.me/27660245504" target="_blank" style="background: var(--bg-secondary); width: 60px; height: 60px;" title="WhatsApp">

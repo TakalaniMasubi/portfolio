@@ -41,7 +41,7 @@
             <div>
                 <h4>Connect</h4>
                 <div class="social-links mt-4" style="font-size: 1.25rem;">
-                    <a href="https://github.com/takalanimasubi" target="_blank" aria-label="GitHub" title="GitHub">
+                    <a href="https://github.com/TakalaniMasubi" target="_blank" aria-label="GitHub" title="GitHub">
                         <i class="fa-brands fa-github" style="color: white;"></i>
                     </a>
                     <a href="https://wa.me/27660245504" target="_blank" aria-label="WhatsApp" title="WhatsApp">

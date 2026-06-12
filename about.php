@@ -15,7 +15,7 @@ include 'includes/header.php';
             </p>
             <div class="mt-4" style="display: flex; gap: 1rem; flex-wrap: wrap;">
                 <a href="contact.php" class="btn btn-primary">Let's Work Together</a>
-                <a href="https://github.com/takalanimasubi" target="_blank" class="btn btn-outline">
+                <a href="https://github.com/TakalaniMasubi" target="_blank" class="btn btn-outline">
                     <i class="fa-brands fa-github" style="margin-right: 0.5rem;"></i> GitHub
                 </a>
             </div>
@@ -70,12 +70,9 @@ include 'includes/header.php';
         <p class="text-lg" style="max-width: 600px; margin: 0 auto 2rem;">
             My code and projects live on GitHub. Check out my repositories to see how I structure and build systems.
         </p>
-        <a href="https://github.com/takalanimasubi" target="_blank" class="btn btn-outline" style="font-size: 1.1rem; padding: 1rem 2.5rem;">
+        <a href="https://github.com/TakalaniMasubi" target="_blank" class="btn btn-outline" style="font-size: 1.1rem; padding: 1rem 2.5rem;">
             <i class="fa-brands fa-github" style="margin-right: 0.75rem; font-size: 1.3rem;"></i> Visit My GitHub
         </a>
-        <p style="color: var(--secondary-text); font-size: 0.85rem; margin-top: 1rem;">
-            <em>Note: Update the GitHub URL above once your profile and repos are live.</em>
-        </p>
     </div>
 </section>
 
